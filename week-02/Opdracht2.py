@@ -150,8 +150,8 @@ else:
 # 10
 #
 # Gebruik hiervoor range(
-for getal in range(1,11):
-    print(getal)
+# for getal in range(1,11):
+#     print(getal)
 
 # Opdracht 7 - Tafel van 5
 #
